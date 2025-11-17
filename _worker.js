@@ -42,7 +42,7 @@ let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
 let proxyIPPool = [];
 let socks5Data;
 let alpn = '';
-let 网络备案 = `<a href='https://vavacc.eu.org'>Sky | AI乄幽紫`;//写你自己的维护者广告
+let 网络备案 = `<a href='https://nana.vsva911.cf/'>Sky Smlie 幽灵`;//写你自己的维护者广告
 let 额外ID = '0';
 let 加密方式 = 'auto';
 let 网站图标, 网站头像, 网站背景, xhttp = '';
@@ -1463,4 +1463,5 @@ export default {
 		}
 	}
 };
+
 
